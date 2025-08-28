@@ -1,0 +1,26 @@
+{
+  "name": "mi-proyecto-playwright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "playwright.config.js",
+  "dependencies": {
+    "playwright": "^1.55.0",
+    "playwright-core": "^1.55.0",
+    "undici-types": "^7.10.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carolina584/playwright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carolina584/playwright/issues"
+  },
+  "homepage": "https://github.com/carolina584/playwright#readme"
+}
