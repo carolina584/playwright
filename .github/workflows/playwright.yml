@@ -13,7 +13,7 @@ jobs:
     steps:
     - uses: actions/checkout@v4
       with:
-        repository: https://github.com/carolina584/playwright.git
+        repository: carolina584/playwright
     - uses: actions/setup-node@v4
       with:
         node-version: lts/*
@@ -29,3 +29,4 @@ jobs:
         name: playwright-report
         path: playwright-report/
         retention-days: 30
+
